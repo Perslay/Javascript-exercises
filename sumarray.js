@@ -1,4 +1,4 @@
-// Write a function that takes an array of numbers and returns the sum of those numbers.
+// Write a function that takes an array of numbers and returns the sum of those numbers
 
 const numbersArray = [2, 5, 11];
 const isNumArray = (arr) => arr.every((item) => typeof item === "number");
